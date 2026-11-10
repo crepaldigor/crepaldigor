@@ -1,35 +1,48 @@
 
-<!-- CREPALDI / GITHUB PROFILE README -->
+<!--
+  CREPALDI — GITHUB PROFILE
+  Minimal / Modern / Backend Focus
+-->
 
 <div align="center">
 
+  <!-- CUSTOM SVG HEADER -->
   <img
-    src="./assets/header.svg?v=6"
+    src="./assets/header.svg?v=7"
     alt="Crepaldi — Java Backend Developer"
     width="100%"
   />
 
-  <br/><br/>
+  <br/>
 
-  <a href="https://github.com/crepaldigor">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&height=40&lines=Java+Backend+Developer;Engineering+first.+Code+with+purpose.;Building+software%2C+one+commit+at+a+time.;Always+learning.+Always+building."
-      alt="Animated introduction"
-    />
-  </a>
+  <!-- ANIMATED INTRO -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1100&color=9CA3AF&center=true&vCenter=true&width=650&height=55&lines=Java+Backend+Developer;Engineering+first.+Code+with+purpose.;Building+software%2C+one+commit+at+a+time.;Always+learning.+Always+building."
+    alt="Animated introduction"
+  />
 
-  <br/><br/>
+  <br/>
 
+  <!-- SOCIAL LINKS -->
   <a href="https://www.linkedin.com/in/igoralvesdossantos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;
   <a href="https://codesantt.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-181818?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+      alt="Portfolio"
+    />
   </a>
   &nbsp;
   <a href="https://github.com/crepaldigor?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+    <img
+      src="https://img.shields.io/badge/Repositories-151515?style=for-the-badge&logo=github&logoColor=FFFFFF"
+      alt="Repositories"
+    />
   </a>
 
 </div>
@@ -38,67 +51,86 @@
 
 ---
 
-### 01. About me
+## `01` &nbsp; About me
 
-Desenvolvedor com foco em **Java Backend**, interessado em engenharia de software, arquitetura e construção de sistemas bem estruturados.
+Sou desenvolvedor com foco em **Java Backend**, interessado em engenharia de software, arquitetura e desenvolvimento de sistemas bem estruturados.
 
-Tenho conhecimentos em **Python, SQL e desenvolvimento Front-end**, que complementam minha visão sobre aplicações e seus diferentes componentes.
+Tenho conhecimentos em **Python, SQL e tecnologias Front-end**, que complementam minha visão sobre aplicações e seus diferentes componentes.
 
-Atualmente, concentro meus estudos em Java, orientação a objetos, regras de negócio e boas práticas de desenvolvimento.
+Atualmente, concentro meus estudos em Java, orientação a objetos, regras de negócio, APIs e boas práticas de desenvolvimento.
 
-> "Good software starts with good decisions."
-
-<br/>
-
-### 02. Tech stack
-
-<div align="center">
-
-**Main focus**
+> Good software starts with good decisions.
 
 <br/>
-
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" alt="Java"/>
-
-<br/><br/>
-
-**Java · Backend Development**
-
-<sub>Orientação a Objetos · Engenharia de Software · Regras de Negócio</sub>
-
-<br/><br/>
 
 ---
 
-<br/>
+## `02` &nbsp; Tech stack
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>Languages & Data</b>
+    <td align="center" width="25%">
+      <br/>
+      <img
+        src="https://skillicons.dev/icons?i=java&theme=dark"
+        height="48"
+        alt="Java"
+      />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
+      <strong>Java</strong>
+      <br/>
+      <sub>MAIN FOCUS</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white" alt="SQL"/>
     </td>
-    <td align="center" width="50%">
-      <b>Front-end Knowledge</b>
+    <td align="center" width="25%">
+      <br/>
+      <img
+        src="https://skillicons.dev/icons?i=python&theme=dark"
+        height="48"
+        alt="Python"
+      />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" height="45" alt="HTML CSS JavaScript React"/>
+      <strong>Python & SQL</strong>
+      <br/>
+      <sub>LANGUAGES & DATA</sub>
       <br/><br/>
-      <sub>HTML · CSS · JavaScript · React</sub>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img
+        src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"
+        height="40"
+        alt="HTML CSS JavaScript React"
+      />
+      <br/><br/>
+      <strong>Front-end</strong>
+      <br/>
+      <sub>COMPLEMENTARY</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img
+        src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
+        height="40"
+        alt="Git GitHub VS Code"
+      />
+      <br/><br/>
+      <strong>Dev Tools</strong>
+      <br/>
+      <sub>VERSION CONTROL</sub>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-**Tools & Version Control**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="44" alt="Git GitHub VS Code"/>
+<img src="https://img.shields.io/badge/JAVA-BACKEND-151515?style=flat-square&logo=openjdk&logoColor=white" alt="Java Backend"/>
+<img src="https://img.shields.io/badge/ENGINEERING-SOFTWARE-151515?style=flat-square" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/FOCUS-CONTINUOUS_LEARNING-151515?style=flat-square" alt="Continuous Learning"/>
 
 </div>
 
@@ -106,56 +138,128 @@ Atualmente, concentro meus estudos em Java, orientação a objetos, regras de ne
 
 ---
 
-### 03. Selected projects
+## `03` &nbsp; Selected projects
+
+<sub>SELECTED WORK / DEVELOPMENT & LEARNING</sub>
+
+<br/><br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-#### [File Organizer](https://github.com/crepaldigor/File-Organizer)
-
-Script desenvolvido em Python para automatizar a organização de arquivos por extensão.
-
-`Python` `Automation`
-
-<a href="https://github.com/crepaldigor/File-Organizer">Explore project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### [Admin Dashboard](https://github.com/crepaldigor/Admin-Dashboard)
-
-Dashboard administrativo responsivo, desenvolvido com React e componentes reutilizáveis.
-
-`React` `JavaScript`
-
-<a href="https://github.com/crepaldigor/Admin-Dashboard">Explore project →</a>
-
-</td>
+      <br/>
+      <sub>01 / PYTHON · AUTOMATION</sub>
+      <h3>File Organizer</h3>
+      <p>
+        Script em Python para automatizar a organização
+        de arquivos por extensão, explorando automação
+        e organização de código.
+      </p>
+      <p>
+        <img
+          src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+          alt="Python"
+        />
+        <img
+          src="https://img.shields.io/badge/Automation-252525?style=flat-square"
+          alt="Automation"
+        />
+      </p>
+      <a href="https://github.com/crepaldigor/File-Organizer">
+        <img
+          src="https://img.shields.io/badge/View_Project-151515?style=for-the-badge&logo=github&logoColor=white"
+          alt="View File Organizer"
+        />
+      </a>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <sub>02 / REACT · FRONT-END</sub>
+      <h3>Admin Dashboard</h3>
+      <p>
+        Dashboard administrativo responsivo desenvolvido
+        com React, com foco em componentes reutilizáveis
+        e organização de interfaces.
+      </p>
+      <p>
+        <img
+          src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"
+          alt="React"
+        />
+        <img
+          src="https://img.shields.io/badge/JavaScript-252525?style=flat-square&logo=javascript&logoColor=F7DF1E"
+          alt="JavaScript"
+        />
+      </p>
+      <a href="https://github.com/crepaldigor/Admin-Dashboard">
+        <img
+          src="https://img.shields.io/badge/View_Project-151515?style=for-the-badge&logo=github&logoColor=white"
+          alt="View Admin Dashboard"
+        />
+      </a>
+      <br/><br/>
+    </td>
   </tr>
   <tr>
-<td width="50%" valign="top">
-
-#### [dividi-ai](https://github.com/crepaldigor/dividi-ai)
-
-Aplicação web para organizar despesas, dividir contas e acompanhar informações financeiras.
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/crepaldigor/dividi-ai">Explore project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### Java Backend Journey
-
-Minha área atual de especialização. Estudando Java, fundamentos de arquitetura, orientação a objetos e desenvolvimento backend.
-
-`Java` `Software Engineering`
-
-<a href="https://github.com/crepaldigor?tab=repositories">View repositories →</a>
-
-</td>
+    <td width="50%" valign="top">
+      <br/>
+      <sub>03 / JAVASCRIPT · WEB APPLICATION</sub>
+      <h3>dividi-ai</h3>
+      <p>
+        Aplicação web para organizar despesas,
+        dividir contas entre grupos e famílias e
+        acompanhar informações financeiras.
+      </p>
+      <p>
+        <img
+          src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
+          alt="HTML"
+        />
+        <img
+          src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"
+          alt="CSS"
+        />
+        <img
+          src="https://img.shields.io/badge/JavaScript-252525?style=flat-square&logo=javascript&logoColor=F7DF1E"
+          alt="JavaScript"
+        />
+      </p>
+      <a href="https://github.com/crepaldigor/dividi-ai">
+        <img
+          src="https://img.shields.io/badge/View_Project-151515?style=for-the-badge&logo=github&logoColor=white"
+          alt="View dividi-ai"
+        />
+      </a>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <sub>04 / CURRENT SPECIALIZATION</sub>
+      <h3>Java Backend Journey</h3>
+      <p>
+        Minha jornada de especialização em Java Backend,
+        com foco em orientação a objetos, engenharia de
+        software, arquitetura e regras de negócio.
+      </p>
+      <p>
+        <img
+          src="https://img.shields.io/badge/Java-252525?style=flat-square&logo=openjdk&logoColor=white"
+          alt="Java"
+        />
+        <img
+          src="https://img.shields.io/badge/Backend-252525?style=flat-square"
+          alt="Backend"
+        />
+      </p>
+      <a href="https://github.com/crepaldigor?tab=repositories">
+        <img
+          src="https://img.shields.io/badge/View_Repositories-151515?style=for-the-badge&logo=github&logoColor=white"
+          alt="View Java repositories"
+        />
+      </a>
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
@@ -163,15 +267,21 @@ Minha área atual de especialização. Estudando Java, fundamentos de arquitetur
 
 ---
 
-### 04. GitHub activity
+## `04` &nbsp; GitHub activity
 
 <div align="center">
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=crepaldigor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&ring_color=FFFFFF"
-    alt="GitHub Statistics"
-    width="490"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=crepaldigor&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=AAAAAA&amp;icon_color=FFFFFF&amp;ring_color=FFFFFF"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=crepaldigor&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=111111&amp;text_color=555555&amp;icon_color=111111&amp;ring_color=111111"
+      alt="GitHub Statistics"
+      width="490"
+    />
+  </picture>
 
   <br/><br/>
 
@@ -179,7 +289,8 @@ Minha área atual de especialização. Estudando Java, fundamentos de arquitetur
 
   <br/><br/>
 
-  <!-- Animated contribution snake -->
+  <!-- CONTRIBUTION SNAKE -->
+
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -191,7 +302,7 @@ Minha área atual de especialização. Estudando Java, fundamentos de arquitetur
     />
     <img
       src="https://raw.githubusercontent.com/crepaldigor/crepaldigor/output/github-contribution-grid-snake.svg"
-      alt="Snake animation on GitHub contributions"
+      alt="GitHub Contribution Snake Animation"
       width="100%"
     />
   </picture>
@@ -202,24 +313,36 @@ Minha área atual de especialização. Estudando Java, fundamentos de arquitetur
 
 ---
 
-### 05. Currently
+## `05` &nbsp; Currently
 
-- **Focus:** Java Backend Development
-- **Studying:** Software Engineering & OOP
-- **Exploring:** Architecture, APIs & Testing
-- **Building:** Projects for continuous improvement
+```text
+> MAIN FOCUS        Java Backend Development
+> STUDYING          Software Engineering & OOP
+> EXPLORING         Architecture, APIs & Testing
+> BUILDING          Projects & Technical Knowledge
+> GOAL              Professional Backend Development
+```
 
 <br/>
 
+---
+
 <div align="center">
 
+  <h3>KEEP BUILDING.</h3>
+
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1400&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=Code.+Learn.+Build.+Improve.;Backend+first.+Engineering+always."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3400&pause=1300&color=9CA3AF&center=true&vCenter=true&width=620&height=45&lines=Code.+Learn.+Build.+Improve.;Backend+first.+Engineering+always.;One+step+closer+with+every+commit."
     alt="Animated footer"
   />
 
   <br/>
 
-  <sub>CREPALDI · JAVA BACKEND DEVELOPER</sub>
+  <a href="https://github.com/crepaldigor">
+    <img
+      src="https://img.shields.io/badge/CREPALDI-JAVA_BACKEND_DEVELOPER-151515?style=flat-square&labelColor=303030&color=151515"
+      alt="Crepaldi Java Backend Developer"
+    />
+  </a>
 
 </div>
