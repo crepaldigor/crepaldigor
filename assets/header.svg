@@ -19,7 +19,7 @@
   <path d="M222 188 H205 C185 188 177 200 177 221 V282 C177 311 170 322 144 330 C170 337 177 352 177 380 V443 C177 464 185 478 205 478 H222" fill="none" stroke="#fff" stroke-width="23" stroke-linejoin="round"/>
   <path d="M1244 188 H1262 C1281 188 1289 200 1289 221 V282 C1289 311 1296 322 1322 330 C1296 337 1289 352 1289 380 V443 C1289 464 1281 478 1262 478 H1244" fill="none" stroke="#fff" stroke-width="23" stroke-linejoin="round"/>
 
-  <text x="243" y="360" font-family="Inter Display, Inter, Arial, sans-serif" font-size="198" font-weight="900" fill="#ffffff" data-font="black">CREPALDI</text>
+  <text x="243" y="360" font-family="Inter Display, Inter, Arial, sans-serif" font-size="198" font-weight="900" fill="#ffffff" textLength="950" lengthAdjust="spacingAndGlyphs">CREPALDI</text>
   <path d="M269 390 H1209 V447 L1172 486 H269 Z" fill="#fafafa"/>
   <text x="297" y="457" font-family="Inter Display, Inter, Arial, sans-serif" font-size="66" font-weight="700" fill="#0b0b0c" data-font="bold">Java Backend Developer</text>
 
