@@ -138,7 +138,7 @@ Atualmente, concentro meus estudos em Java, orientação a objetos, regras de ne
 
 ---
 
-## `04` &nbsp; GitHub activity
+## `03` &nbsp; GitHub activity
 
 <div align="center">
 
@@ -184,7 +184,7 @@ Atualmente, concentro meus estudos em Java, orientação a objetos, regras de ne
 
 ---
 
-## `05` &nbsp; Currently
+## `04` &nbsp; Currently
 
 ```text
 > MAIN FOCUS        Java Backend Development
