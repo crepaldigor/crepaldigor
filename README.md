@@ -167,13 +167,11 @@ Minha área atual de especialização. Estudando Java, fundamentos de arquitetur
 
 <div align="center">
 
-  <picture>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=crepaldigor&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=555555&icon_color=111111&ring_color=111111"
-      alt="GitHub Statistics"
-      width="490"
-    />
-  </picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=crepaldigor&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=555555&icon_color=111111&ring_color=111111"
+    alt="GitHub Statistics"
+    width="490"
+  />
 
   <br/><br/>
 
