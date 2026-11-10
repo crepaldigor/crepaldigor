@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2172" height="724" viewBox="0 0 2172 724" role="img" aria-labelledby="title desc">
+<title id="title">Crepaldi — Java Backend Developer</title>
+<desc id="desc">Banner monocromático para perfil GitHub. Nome Crepaldi com foco em Java Backend, Java, Python, SQL, conhecimentos em HTML, CSS, JavaScript, React, Git e GitHub.</desc>
+<defs>
+  <clipPath id="clip"><rect width="2172" height="724"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="2172" height="724" fill="#0b0b0c"/>
+  <!-- Geometria de cantos em preto e branco, sem texturas rasterizadas -->
+  <circle cx="2225" cy="-240" r="505" fill="none" stroke="#a2a2a2" stroke-width="96"/>
+  <circle cx="-62" cy="1020" r="510" fill="none" stroke="#9e9e9e" stroke-width="92"/>
+
+  <!-- Guias de composição: linguagem editorial / modular -->
+  <path d="M89 0 V724 M0 94 H131" fill="none" stroke="#f5f5f5" stroke-width="2.3"/>
+  <path d="M198 113 L218 77 M223 113 L243 77 M248 113 L268 77" stroke="#f7f7f7" stroke-width="4" fill="none"/>
+  <path d="M328 94 H975" stroke="#f5f5f5" stroke-width="2.5"/>
+
+  <!-- Chaves estilizadas feitas com curvas Bézier vetoriais -->
+  <path d="M222 188 H205 C185 188 177 200 177 221 V282 C177 311 170 322 144 330 C170 337 177 352 177 380 V443 C177 464 185 478 205 478 H222" fill="none" stroke="#fff" stroke-width="23" stroke-linejoin="round"/>
+  <path d="M1244 188 H1262 C1281 188 1289 200 1289 221 V282 C1289 311 1296 322 1322 330 C1296 337 1289 352 1289 380 V443 C1289 464 1281 478 1262 478 H1244" fill="none" stroke="#fff" stroke-width="23" stroke-linejoin="round"/>
+
+  <text x="243" y="360" font-family="Inter Display, Inter, Arial, sans-serif" font-size="198" font-weight="900" fill="#ffffff" data-font="black">CREPALDI</text>
+  <path d="M269 390 H1209 V447 L1172 486 H269 Z" fill="#fafafa"/>
+  <text x="297" y="457" font-family="Inter Display, Inter, Arial, sans-serif" font-size="66" font-weight="700" fill="#0b0b0c" data-font="bold">Java Backend Developer</text>
+
+  <!-- Coluna de tecnologias: backend em destaque e frontend complementar -->
+  <path d="M1395 209 V486" stroke="#f5f5f5" stroke-width="2.4"/>
+  <text x="1461" y="269" font-family="Inter Display, Inter, Arial, sans-serif" font-size="48" font-weight="700" fill="#fff" data-font="bold">Java · Python · SQL</text>
+  <path d="M1460 301 H2008 M1460 406 H2008" stroke="#f0f0f0" stroke-width="2"/>
+  <text x="1461" y="366" font-family="Inter Display, Inter, Arial, sans-serif" font-size="38" font-weight="400" fill="#f5f5f5" data-font="regular">HTML, CSS, JavaScript, React</text>
+  <text x="1461" y="472" font-family="Inter Display, Inter, Arial, sans-serif" font-size="40" font-weight="400" fill="#f5f5f5" data-font="regular">Git · GitHub</text>
+
+  <!-- Tramas e marca de registro inferior -->
+  <path d="M446 623 L466 599 M469 623 L489 599 M492 623 L512 599 M515 623 L535 599 M538 623 L558 599 M561 623 L581 599 M584 623 L604 599 M607 623 L627 599 M630 623 L650 599 M653 623 L673 599 M676 623 L696 599" stroke="#eee" stroke-width="2.2" fill="none"/>
+  <path d="M766 613 H1935" stroke="#f0f0f0" stroke-width="2.3"/>
+  <path d="M1968 613 H2048 M2008 573 V653" stroke="#f0f0f0" stroke-width="2.3"/>
+</g>
+</svg>
